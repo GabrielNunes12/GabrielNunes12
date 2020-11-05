@@ -16,6 +16,6 @@
  <img src="https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2">
 </a>
 <a href="https://twitter.com/Itsan0therguy">
- <img alt="Follow me" src="https://shields.io/category/social/twitter/url?url=https://twitter.com/Itsan0therguy"/>
+ <img alt="Follow me" src="https://img.shields.io/twitter/url?color=Yellow&label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FItsan0therguy"/>
 </a>
  
