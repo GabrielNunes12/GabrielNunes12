@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on TSA - AVIAÇÂO
 - 🔭 What is your position at TSA - Aviation? <br/> &nbsp;
     <section>
-      <strong><p>I am Full stack engineer (PHP and C# on server-side and Vuejs client-side)</p></strong>
+      <strong>I am Full stack engineer (PHP and C# on server-side and Vuejs client-side)</strong>
     </section>
 - 🌱 I’m currently learning Javascript, Spring Boot
 - 👯 I’m looking to collaborate on open source projects 
