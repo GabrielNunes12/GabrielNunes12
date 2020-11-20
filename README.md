@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m currently working on TSA - AVIAÇÂO
-- 🔭 What is your position at TSA - Aviation? <br/> &nbsp;
+- 🔭 What is your position at TSA - AVIAÇÂO? <br/> &nbsp;
     <section>
       <strong>I am Full stack engineer (PHP and C# on server-side and Vuejs client-side)</strong>
     </section>
