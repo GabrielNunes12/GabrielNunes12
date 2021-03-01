@@ -5,7 +5,7 @@
 
 -->
 - 🔭 I’m currently unemployed
-- 🌱 I’m currently learning Javascript, Spring Boot
+- 🌱 I’m currently learning Javascript / Typescript / Vuejs / Reactjs
 - 👯 I’m looking to collaborate on open source projects 
 - 📫 How to reach me? 
 
