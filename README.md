@@ -10,6 +10,7 @@
 - 📫 How to reach me? 
 
 Link below
+<html>
 <br/>
 <a href="https://www.youtube.com/channel/UC4gD3DdOLveC2r6tSMqNKbw">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC4gD3DdOLveC2r6tSMqNKbw&key=AIzaSyCWBNy7F8nXv_6OEiVeyrFlLVTluIdf4sI"/>
@@ -21,6 +22,6 @@ Link below
  <img alt="Follow me" src="https://img.shields.io/twitter/url?color=Yellow&label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FItsan0therguy"/>
 </a>
 
-<h2>My github stats</h2>
+My github stats
 <br>
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunes12)](https://github.com/GabrielNunes12/github-readme-status)
