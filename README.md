@@ -21,6 +21,6 @@ Link below
  <img alt="Follow me" src="https://img.shields.io/twitter/url?color=Yellow&label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FItsan0therguy"/>
 </a>
 
-My github stats
+<h2>My github stats</h2>
+<br>
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunes12)](https://github.com/GabrielNunes12/github-readme-status)
- 
