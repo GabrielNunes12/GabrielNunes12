@@ -20,4 +20,11 @@ Link below
 <a href="https://twitter.com/Itsan0therguy">
  <img alt="Follow me" src="https://img.shields.io/twitter/url?color=Yellow&label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FItsan0therguy"/>
 </a>
+
+<details>
+ <summary>
+   Gabriel's Github stats
+ </summary>
+ [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunes12)](https://github.com/GabrielNunes12/github-readme-status)
+</details>
  
