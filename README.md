@@ -32,3 +32,6 @@ My github stats
 ## Frameworks
 <img src="https://br.vuejs.org//images/logo.png" alt="Vuejs" width="56px"></img>
 <img src="https://user-images.githubusercontent.com/48297244/134033596-743a81e9-102b-4323-a295-d54d7c97ce89.png" alt="Nodejs" width="56px"></img>
+
+## Passport
+<a href="https://app.daily.dev/EoBilas"><img src="https://api.daily.dev/devcards/514731f35f6141cca16ee1a590b3dd0b.png?r=x2g" width="400" alt="Gabriel Nunes's Dev Card"/></a>
