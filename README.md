@@ -5,8 +5,8 @@
 
 -->
 - 🔭 I’m currently working on YouX Group
-- 🌱 I’m currently learning nodejs/reactjs
-- 👯 I’m looking to collaborate on open source projects 
+- 🌱 I’m currently learning Java/C#
+- 👯 I’m looking to collaborate on open source projects and game development
 - 📫 How to reach me? 
 
 Link below
