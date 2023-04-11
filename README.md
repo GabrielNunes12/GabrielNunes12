@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Java/C#
 - 👯 I’m looking to collaborate on open source projects and game development
 - 📫 How to reach me? 
+- My <a href="https://allgn.itch.io/">Itch.io</a>
 
 Link below
 <html>
