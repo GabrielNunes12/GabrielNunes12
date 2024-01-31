@@ -26,7 +26,6 @@ My github stats
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png" alt="Java" width="56px"></img>
 
 ## Frameworks
-<img src="https://br.vuejs.org//images/logo.png" alt="Vuejs" width="56px"></img>
 <img src="https://rdtschools.com/wp-content/uploads/2017/05/spring-boot-logo-1.png" alt="Spring boot" width="56px"></img>
 
 
