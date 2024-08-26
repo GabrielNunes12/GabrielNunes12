@@ -22,7 +22,6 @@ My github stats
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunes12&show_icons=true&theme=radical)](https://github.com/GabrielNunes12/github-readme-status)
 
 ## Skills
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Javascript" width="56px"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png" alt="Java" width="56px"></img>
 
 ## Frameworks
