@@ -10,12 +10,6 @@
 - 📫 How to reach me? 
 - My <a href="https://allgn.itch.io/">Itch.io</a>
 
-Link below
-<html>
-<br/>
-<a href="https://twitter.com/obilhas">
- <img alt="Follow me" src="https://img.shields.io/twitter/url?color=Yellow&label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FItsan0therguy"/>
-</a>
 
 My github stats
 <br>
