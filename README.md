@@ -28,7 +28,7 @@ With **5+ years** of experience in **Node.js (NestJS,Express.js), Java, springbo
 
 **Backend:**  
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs)](https://nestjs.com/)  
-[![springboot](https://img.shields.io/badge/-Springboot?logo=springboot)](https://docs.spring.io/spring-boot/)  
+[![springboot](https://img.shields.io/badge/-Springboot-E0234E?logo=springboot)](https://docs.spring.io/spring-boot/)  
 [![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka)](https://kafka.apache.org/)  
 
 **Cloud & DevOps:**  
