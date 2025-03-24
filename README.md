@@ -20,7 +20,6 @@ With **5+ years** of experience in **Node.js (NestJS,Express.js), Java, springbo
 ## 🔥 Key Achievements  
 
 - **25% reduction** in API response times through query optimization  
-- **Designed AI-powered chatbot** using LangChain & Hugging Face models  
 - **Developed real-time event-driven systems** using Kafka & WebSockets  
 - **Orchestrated microservices** in Kubernetes for high availability  
 
