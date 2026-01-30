@@ -12,7 +12,7 @@
 ## 🚀 Backend Engineering | High-Performance APIs  
 
 With **5+ years** of experience in **Node.js (NestJS,Express.js), Java, springboot, and distributed systems**, I focus on:  
-- **Scalable microservices**: Kafka, RabbitMQ, gRPC  
+- **Scalable microservices**: RabbitMQ, gRPC  
 - **Optimized cloud solutions**: AWS & Kubernetes  
 - **Data-intensive applications**: PostgreSQL, MongoDB  
 - **Security & DevOps**: OAuth, JWT, CI/CD, Docker  
@@ -44,7 +44,7 @@ With **5+ years** of experience in **Node.js (NestJS,Express.js), Java, springbo
 [Microsservices with Springboot and Spring Cloud](https://github.com/GabrielNunes12/microservices-java)
 
 [Learning rabbitMQ and Kafka](https://github.com/GabrielNunes12/LearningRabbitMQJava)
-## 📚 Learning & Writing  
+## 📚 Learning  
 
 - **Scaling event-driven microservices** with Kafka & NestJS  
 - **Advanced API performance tuning** in Java/Springboot and Nodejs  
@@ -53,6 +53,5 @@ With **5+ years** of experience in **Node.js (NestJS,Express.js), Java, springbo
 ## 🎯 Looking For Opportunities  
 
 - **Freelance**: Scalable backend systems, microservices architecture  
-- **Technical Content Creation**: Writing about backend engineering, DevOps, and system design  
 
 📧 **Reach out** at prismaticnetwork12@gmail.com  
